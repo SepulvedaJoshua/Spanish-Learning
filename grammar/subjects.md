@@ -1,4 +1,4 @@
-# Subjects
+# Subject Nouns
 
 ```bash
 Soy un(a) estudiante
@@ -68,6 +68,37 @@ There are unique forms to call someone in Spanish, some subjects are neutral in 
 * "Desarrolladora" is also used for a Developer Company like "Desarrolladora de Software" \(Software developer enterprise\).
 * Doctor is also used when you're going to the doctor, as like in English, for example "Voy al doctor".
 * In some countries like Argentina some people replace Niño/Niña for Nene/Nena
+
+## Possessive Nouns
+
+### Singular Possessive
+
+| Noun | Quantity | Formality | English |
+| :--- | :--- | :--- | :--- |
+| Mi | Singular | Both | My |
+| Tu | Singular | Both | Your |
+| Su | Singular | Both | His/Her |
+| Mis | Plural | Both | My |
+| Tus | Plural | Both | Your |
+| Sus | Plural | Both | His/Her |
+
+#### Comments
+
+* Quantity Column refers how much of things the subject has \(example: Tus manzanas son muy rojas -&gt; Your apples are so red\)
+* "Su" and "Sus" are  more formal than others, so you can use it for saying something more formally \(ex: Su camisa es linda, señor - Your shirt is nice, sir\).
+
+### Plural Possessive
+
+| Noun | Quantity | English |
+| :--- | :--- | :--- |
+| Nuestra | Singular | Our |
+| Nuestras | Plural | Our |
+| Su | Singular | Your |
+| Sus | Plural | Your |
+
+#### Comments
+
+* In plural possessive  you also use "Su" and "Sus" but you specify that is plural in the rest of the sentence \(ex: Su casa es grande - Their home is big\). This one is quite difficult, so you can change the sentence, in this case you can change it for this \(La casa de ellos es grande\).
 
 
 
