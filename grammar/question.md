@@ -61,3 +61,7 @@ You use "Porqué" when you want to know the **cause or reason of something**, is
 - Tenemos que saber el porqué de este error en el código \(We have to know the reason for this error in the code\).  
 - Aún no sabemos el porqué de este problema \(We still don't know the reason for this problem / We still don't know what causes this problem\)
 
+## IMPORTANT COMMENT:
+
+There is one more, the "Por que", but i don't know how exactly use this. so here's a [**LINK** ](https://www.thoughtco.com/por-que-and-porque-3080309)that you can use to study it, also there are the others "Porques" so you can reinforce them.
+
