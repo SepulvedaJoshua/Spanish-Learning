@@ -31,7 +31,7 @@ In Spanish "Las siete \(7\) preguntas de noticia", are the most commonly questio
 | Example \(Spanish\) | Example\(English\) |
 | :--- | :--- |
 | ¿Quién es estudiante? | Who is a student? |
-| ¿Qué haces? | What are you doing? |
+| ¿Qué haces? / ¿Qué estás haciendo? | What are you doing? |
 | ¿Cuándo puedes venir? | When can you come? |
 | ¿Dónde vives? | Where do you live? |
 | ¿Por qué estudias español? | Why do you study Spanish? |
