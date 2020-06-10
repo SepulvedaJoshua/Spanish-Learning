@@ -12,7 +12,7 @@
 ```
 
 * Socially we don't use `¿`,  we just use `?`. \(Example: Eres programadora?\), but if you are writing something formal, yo should use both.
-* Like in Japanese, you can also omit the subject, anyways i wrote both options.
+* Like in Japanese, you can also omit the subject, anyways, i wrote both options.
 
 ## News Questions
 
