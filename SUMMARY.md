@@ -8,3 +8,8 @@
 * [Sentences](grammar/sentences.md)
 * [Questions & Answers](grammar/question.md)
 
+## Rules
+
+* [Pronunciation Rules](rules/pronunciation-rules.md)
+* [Gramatical Rules](rules/gramatical-rules.md)
+
