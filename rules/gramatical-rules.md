@@ -31,15 +31,36 @@ As the same as above, when you connect two words with `or`, you use `O` in Spani
 
 There are four types of accentuated words:
 
-* Aguda \(Accent in last syllable\)
-* Grave \(Accent in the penultimate syllable\)
-* Esdrújula \(Accent in the antepenultimate syllable\)
-* Sobreesdrújula \(Accent in the antepenultimate syllable\)
+* Aguda \(accent in last syllable\) 
+* Grave \(accent in the penultimate syllable\)
+* Esdrújula \(accent in the antepenultimate syllable\)
+* Sobreesdrújula \(accent on the syllable before the antepenultimate\)
 
 In Spanish we accentuate some words with an accent mark, if you are not sure if a word has a accent mark \(in Spanish called "tilde"\) you should follow this rules:
 
 1. First you have to separate the word into syllables, in this example we will use the word "Programación".
 2. So when you separate the word \(in this case would be "Pro-Gra-Ma-Cion"\), you have to listen where is the voice is accentuated.
 3. When you find the accentuation, you have to see if the word ends with an N, S or vowel.
-4. In this case, the word Programación has the voice accentuation at the end and ends with an N, so it's an "aguda" word.
+4. In this case, the word Programación has the voice accentuation at the end and ends with an N, so it's an "aguda" word, so you have to put an accent mark on it.
+
+#### What if the word is accentuated but doesn't met the rule?
+
+If the word is accentuated at the end and doesn't met the rule, you don't have to use accent mark, for example, the word "Actual" is accentuated at the last syllable \(Aguda\), but it doesn't end with an N, S or vowel, so you don't have to mark it. Esdrújula and Sobreesdrújula words **ALWAYS** have accent mark.
+
+### Example Table
+
+| Aguda \(with tilde\) | Aguda \(without tilde\) | Grave \(with tilde\) | Grave \(without tilde\) |
+| :--- | :--- | :--- | :--- |
+| Ja-po-**nés** | Ac-ti-**var** \(Activate\) | A-**zú-**car \(Sugar\) | Con-te-**ni-**do \(Content\) |
+| Si-**llón** \(Armchair\) | Tra-duc-**tor** \(Translator\) | **Dó**-lar \(Dollar\) | Ja-po-**ne**-sa |
+
+#### Esdrújula and Sobreesdrújula examples
+
+| Esdrújula | Sobreesdrújula |
+| :--- | :--- |
+| A-**mé**-ri-ca | **Rá**-pi-da-men-te \(Quickly\) |
+| Gra-**má**-ti-ca \(Grammar\) | **Ló-**gi-ca-men-te \(Logically\) |
+| **Pá**-ja-ro \(Bird\) | **Llé-**va-te-lo \(Take it away\) |
+
+If you're going to study this, it is not necessary to study the sobreesdrújulas too much.
 
