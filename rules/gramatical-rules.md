@@ -10,7 +10,7 @@ When you link two words with an `and` in Spanish, you use `Y`, but in some cases
 | Cocodrilos e hipopótamos | Cocodrilos y hipopótamos | Crocodiles and hippos |
 | Perros y Gatos | Perros e Gatos | Dogs and Cats |
 
-### O and U conjunctions
+## O and U conjunctions
 
 As the same as above, when you connect two words with `or`, you use `O` in Spanish, but depending of the word next to the connector, you should use `U` instead of `O` connector
 
@@ -20,7 +20,7 @@ As the same as above, when you connect two words with `or`, you use `O` in Spani
 | ¿Son arañas u hormigas? | ¿Son arañas o hormigas? | Are they spiders or ants? |
 | ¿Quieres pimienta u orégano?  | ¿Quieres pimienta o orégano? | Do you want pepper or oregano? |
 
-#### Comments
+### Comments
 
 * In Spanish we have the "y/o" or "y/u" which is the same as "and/or" .
 * Pro Tip: If you have complications with Y and E or O and U rules, just change the word order :\)
