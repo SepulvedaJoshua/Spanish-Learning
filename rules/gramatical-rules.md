@@ -25,3 +25,21 @@ As the same as above, when you connect two words with `or`, you use `O` in Spani
 * In Spanish we have the "y/o" or "y/u" which is the same as "and/or" .
 * Pro Tip: If you have complications with Y and E or O and U rules, just change the word order :\)
 
+## Accentuation Rules \(Medium Difficulty\)
+
+#### First of all, this one is like Medium level of Spanish, if you are not prepared to detect accent or divide words into syllables, you can skip it :\)
+
+There are four types of accentuated words:
+
+* Aguda \(Accent in last syllable\)
+* Grave \(Accent in the penultimate syllable\)
+* Esdrújula \(Accent in the antepenultimate syllable\)
+* Sobreesdrújula \(Accent in the antepenultimate syllable\)
+
+In Spanish we accentuate some words with an accent mark, if you are not sure if a word has a accent mark \(in Spanish called "tilde"\) you should follow this rules:
+
+1. First you have to separate the word into syllables, in this example we will use the word "Programación".
+2. So when you separate the word \(in this case would be "Pro-Gra-Ma-Cion"\), you have to listen where is the voice is accentuated.
+3. When you find the accentuation, you have to see if the word ends with an N, S or vowel.
+4. In this case, the word Programación has the voice accentuation at the end and ends with an N, so it's an "aguda" word.
+
