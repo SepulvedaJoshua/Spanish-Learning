@@ -27,5 +27,34 @@ This are the R Suave rules, but if a word doesn't met those ones **AND** also do
   
 Example: Partir, Fuerte, etc.
 
+## L, LL & Y
+
+In Spanish, we pronounce the "LL" like an "Y", this last can work like a consonant and vowel.  
+"Y" sounds similar like Japanese や、じ、じゅ、いぇ、よ. Here's a chart:
+
+
+
+| LL / Y | 日本語 |
+| :--- | :--- |
+| Lla / Ya | や |
+| Lli / Yi | じ |
+| Llu / Yu | じゅ \(can also use a いぇ pronunciation\) |
+| Lle / Ye | じぇ |
+| Llo / Yo | よ |
+
+* Even if LL and Y are pronounced similar, this doesn't mean that you have to use it equally, there are words with LL and words with Y, for example, you can write Llave \(Key\) but you cannot write Yabe, because that word doesn't exists.
+* If `Y` is used like an `"And"` connector **OR** it is at the end of the word, you pronounce it like an Spanish `"i"`
+* When an L not accompanied by another L, it pronounces like a normal L \(like an English L\).
+
+Here are some examples of L, LL and Y words with his translation and Japanese phoneme guide
+
+| Spanish | English | With Japanese Phonemes  |
+| :--- | :--- | :--- |
+| Llave | Key | ヤベ |
+| Ladrillo | Brick | ラドリヨ |
+| Inyección | Injection \(Vaccine\) | イヌジェクシオン |
+| Yunque | Anvil | ユンケ |
+| Ley | Law | レイ |
+
 ![Here&apos;s a is a example of &quot;L&quot; and &quot;R&quot; characters](../.gitbook/assets/image.png)
 
