@@ -73,8 +73,8 @@ The only exception to this rule are proper nouns, such as names of people names 
 
 | Correct | Incorrect | English |
 | :--- | :--- | :--- |
-| Combinación | Comvinación/Conbinación | Combination |
-| Inventario | Inbentario/Imbentario | Inventory |
-| Cambio | Camvio/Canbio | Change |
-| Envidia | Embidia/Enbidia | Envy / Jealousy |
+| Combinación | Comvinación/Conbinación/Convinación | Combination |
+| Inventario | Inbentario/Imbentario/Imventario | Inventory |
+| Cambio | Camvio/Canbio/Canvio | Change |
+| Envidia | Embidia/Enbidia/Emvidia | Envy / Jealousy |
 
