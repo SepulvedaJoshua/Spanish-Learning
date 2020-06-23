@@ -37,7 +37,7 @@ There are unique forms to call someone in Spanish, some subjects are neutral in 
 
 #### Comments
 
-* By gramatical rule, when you want to refer a group of people \(where there are men and women\) you use the male Subject \(Nosotros,Ellos\).
+* By gramatical rule, when you want to refer a group of people \(where there are men and women\) you use the male Subject \(Nosotros, Ellos\).
 * All this subjects \(Plural Subjects\) have neutral formality, so if you want to demonstrate formality in a conversation, you should use a respectful words or sentences.
 
 ## Other vocabularies
