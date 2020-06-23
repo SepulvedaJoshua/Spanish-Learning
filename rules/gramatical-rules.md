@@ -64,3 +64,17 @@ If the word is accentuated at the end and doesn't met the rule, you don't have t
 
 If you're going to study this, it is not necessary to study the sobreesdrújulas too much.
 
+## Mb & Nv Rule
+
+This rule is quite easy, the words cannot have an N before a B,  and can not have an M before a V.  
+The only exception to this rule are proper nouns, such as names of people names of cities \(such as Canberra, a city in Australia\).
+
+#### Example table
+
+| Correct | Incorrect | English |
+| :--- | :--- | :--- |
+| Combinación | Comvinación/Conbinación | Combination |
+| Inventario | Inbentario/Imbentario | Inventory |
+| Cambio | Camvio/Canbio | Change |
+| Envidia | Embidia/Enbidia | Envy / Jealousy |
+
