@@ -114,5 +114,5 @@ There are unique forms to call someone in Spanish, some subjects are neutral in 
 | Tendrás | Future | You will have |
 | Tendrán | Future | They will have |
 
-* In "Tenían", "Tienen" and "Tendrán" verbs, you can use it like a Plural "You Have". 
+* In "Tenían", "Tienen" and "Tendrán" verbs, you can use it like a Plural "You". \(Ellos Tienen/ Ustedes Tienen\). 
 
