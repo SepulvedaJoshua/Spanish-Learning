@@ -100,5 +100,19 @@ There are unique forms to call someone in Spanish, some subjects are neutral in 
 
 * In plural possessive  you also use "Su" and "Sus" but you specify that is plural in the rest of the sentence \(ex: Su casa es grande - Their home is big\). This one is quite difficult, so you can change the sentence, in this case you can change it for this \(La casa de ellos es grande\).
 
+## Possessive Verbs
 
+| Verb | Time | English |
+| :--- | :--- | :--- |
+| Tenía | Past | I had |
+| Tenías | Past | You had |
+| Tenían | Past | They had |
+| Tengo | Present | I have |
+| Tienes | Present | You have |
+| Tienen | Present | They have |
+| Tendré | Future | I will have |
+| Tendrás | Future | You will have |
+| Tendrán | Future | They will have |
+
+* In "Tenían", "Tienen" and "Tendrán" verbs, you can use it like a Plural "You Have". 
 
