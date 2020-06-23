@@ -48,7 +48,7 @@ In Spanish, we pronounce the "LL" like an "Y", this last can work like a consona
 
 Here are some examples of L, LL and Y words with his translation and Japanese phoneme guide
 
-| Spanish | English | With Japanese Phonemes  |
+| Spanish | English | With Japanese Phonemes |
 | :--- | :--- | :--- |
 | Llave | Key | ヤベ |
 | Ladrillo | Brick | ラドリヨ |
@@ -57,4 +57,19 @@ Here are some examples of L, LL and Y words with his translation and Japanese ph
 | Ley | Law | レイ |
 
 ![Here&apos;s a is a example of &quot;L&quot; and &quot;R&quot; characters](../.gitbook/assets/image.png)
+
+## Ñ Pronunciation
+
+The Ñ pronunciation is very similar to にゃ、にぃ、にゅ、にぇ、にょ So I think it will not be difficult for you, anyway I will leave some exercises for the words with Ñ.
+
+* First, you should practice saying Ña, Ñi, Ñu, Ñe, Ño. when you feel ready, try reading this words:
+
+| Word | English | With Japanese Phonemes |
+| :--- | :--- | :--- |
+| Ñandú | Rhea | ニャンヅ |
+| Niño | Boy | ニニョ |
+| Niña | Girl | ニニャ |
+| Ñoño | Nerd | ニョニョ |
+
+* Note: I think in Japanese there is no phoneme for "dú", so I put a "ヅ", but you can pronounce it as the "do" in English
 
