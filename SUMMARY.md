@@ -7,6 +7,7 @@
 * [Subject Nouns](grammar/subjects.md)
 * [Sentences](grammar/sentences.md)
 * [Questions & Answers](grammar/question.md)
+* [Time](grammar/time.md)
 
 ## Rules
 
