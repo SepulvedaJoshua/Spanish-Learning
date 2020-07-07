@@ -31,14 +31,16 @@
 
 ## Time
 
-There are many forms to refers the time in Spanish, depending of the country you can say it in different forms.
+There are many forms to refer the time in Spanish, depending of the country you can say it in different forms.
 
 | Hour | Example | Example 2 |
 | :--- | :--- | :--- |
-| 3:40pm | Tres con cuarenta | Veinte para las 4 |
-| 1:00am | Una de la mañana | Una de la madrugada |
-| 6:15pm | Seis con quince | Seis y cuarto |
-|  |  |  |
+| 3:40 | Tres con cuarenta | Veinte para las 4 |
+| 1:00 | Una en punto | La una \(en punto\) |
+| 6:15 | Seis con quince | Seis y cuarto |
+| 8:30 | Ocho con treinta | Ocho y media |
+
+After telling the time you can specify if it is early, late or night. like "Son las tres con veinte de la tarde" which means "it's 3:20pm"
 
 ## Weather
 
