@@ -42,6 +42,8 @@ There are many forms to refer the time in Spanish, depending of the country you 
 
 After telling the time you can specify if it is early, late or night. like "Son las tres con veinte de la tarde" which means "it's 3:20pm".
 
+Note: Asking for "El tiempo" in Spanish means to know the weather, so if you want to know what time is it, you should say "¿Qué hora es?".
+
 ## Weather
 
 | Spanish | English |
