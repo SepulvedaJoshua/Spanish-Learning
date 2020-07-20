@@ -8,6 +8,7 @@
 * [Sentences](grammar/sentences.md)
 * [Questions & Answers](grammar/question.md)
 * [Time](grammar/time.md)
+* [Object Positions](grammar/object-positions.md)
 
 ## Rules
 

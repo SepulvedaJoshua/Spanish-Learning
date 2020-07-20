@@ -35,10 +35,11 @@ There are many forms to refer the time in Spanish, depending of the country you 
 
 | Hour | Example | Example 2 |
 | :--- | :--- | :--- |
-| 3:40 | Tres con cuarenta | Veinte para las 4 |
+| 3:40 | Tres con cuarenta | Veinte para las cuatro |
 | 1:00 | Una en punto | La una \(en punto\) |
 | 6:15 | Seis con quince | Seis y cuarto |
 | 8:30 | Ocho con treinta | Ocho y media |
+| 2:45 | Dos con cuarenta y cinco | Un cuarto para las tres |
 
 After telling the time you can specify if it is early, late or night. like "Son las tres con veinte de la tarde" which means "it's 3:20pm".
 
